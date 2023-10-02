@@ -4,3 +4,7 @@
 build/*
 gbm_localize/test/*
 gbm_localize/data/*
+gbm_localize.egg-info/
+gbm_localize/.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+*/*/.ipynb_checkpoints/
