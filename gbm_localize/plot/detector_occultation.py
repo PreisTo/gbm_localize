@@ -6,7 +6,8 @@ import gbmgeometry as geo
 import numpy as np
 import os
 from astropy.coordinates import SkyCoord
-from trigdat_reader import TrigReader
+#from trigdat_reader import TrigReader
+from morgoth.utils.trig_reader import TrigReader
 import warnings                                                                                                                                
 warnings.simplefilter('ignore') 
 
